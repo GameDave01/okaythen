@@ -1,0 +1,2 @@
+# okaythen
+Szkript Labor
